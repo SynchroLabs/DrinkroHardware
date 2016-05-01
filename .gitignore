@@ -1,0 +1,4 @@
+# Old file versions end with poundsign and one digit
+*#?
+# Eagle loves leaving lock files around
+*.lck
