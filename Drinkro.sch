@@ -4608,6 +4608,8 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <sheets>
 <sheet>
 <plain>
+<text x="162.56" y="7.62" size="2.54" layer="94">Synchro Labs, Inc.</text>
+<text x="241.3" y="7.62" size="2.54" layer="94">1</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
