@@ -2,3 +2,5 @@
 *#?
 # Eagle loves leaving lock files around
 *.lck
+# Eagle writes stuff in here
+eagle.epf
