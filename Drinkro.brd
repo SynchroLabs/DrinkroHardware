@@ -164,6 +164,8 @@
 <text x="34.925" y="42.545" size="1.27" layer="21" rot="R90" align="top-right">GND</text>
 <text x="40.005" y="42.545" size="1.27" layer="21" rot="R90" align="top-right">VCCIO</text>
 <text x="37.465" y="42.545" size="1.27" layer="21" rot="R90" align="top-right">DIR2</text>
+<hole x="69.85" y="25.4" drill="6.35"/>
+<hole x="6.35" y="38.1" drill="6.35"/>
 </plain>
 <libraries>
 <library name="SparkFun-Retired">
@@ -602,11 +604,11 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="J1" pad="PWR"/>
 <contactref element="U1" pad="8"/>
 <contactref element="U2" pad="8"/>
-<wire x1="12.43" y1="50.8" x2="12.43" y2="25.67" width="0.4064" layer="16"/>
-<wire x1="12.43" y1="25.67" x2="19.05" y2="19.05" width="0.4064" layer="16"/>
-<wire x1="19.05" y1="19.05" x2="20.32" y2="17.78" width="0.4064" layer="16"/>
-<wire x1="20.32" y1="17.78" x2="48.26" y2="17.78" width="0.4064" layer="16"/>
-<wire x1="48.26" y1="17.78" x2="49.53" y2="19.05" width="0.4064" layer="16"/>
+<wire x1="12.43" y1="50.8" x2="12.43" y2="25.67" width="1.016" layer="16"/>
+<wire x1="12.43" y1="25.67" x2="19.05" y2="19.05" width="1.016" layer="16"/>
+<wire x1="19.05" y1="19.05" x2="20.32" y2="17.78" width="1.016" layer="16"/>
+<wire x1="20.32" y1="17.78" x2="48.26" y2="17.78" width="1.016" layer="16"/>
+<wire x1="48.26" y1="17.78" x2="49.53" y2="19.05" width="1.016" layer="16"/>
 </signal>
 <signal name="GND">
 <contactref element="J1" pad="GND"/>
