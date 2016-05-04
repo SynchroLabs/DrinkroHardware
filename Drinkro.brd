@@ -1767,9 +1767,8 @@ Please make sure your boards conform to these design rules.</description>
 <signal name="MOTOR1_OUT1">
 <contactref element="J11" pad="2"/>
 <contactref element="U1" pad="3"/>
-<wire x1="14.24" y1="8.78" x2="13.97" y2="8.78" width="0.4064" layer="1"/>
-<wire x1="13.97" y1="8.78" x2="13.97" y2="25.4" width="0.4064" layer="1"/>
-<wire x1="13.97" y1="25.4" x2="19.05" y2="31.75" width="0.4064" layer="1"/>
+<wire x1="14.24" y1="8.78" x2="14.24" y2="26.94" width="0.4064" layer="1"/>
+<wire x1="14.24" y1="26.94" x2="19.05" y2="31.75" width="0.4064" layer="1"/>
 </signal>
 <signal name="MOTOR1_OUT2">
 <contactref element="J11" pad="1"/>
