@@ -1,0 +1,2 @@
+pngtopnm < ~/Downloads/synchro.png | pnmcolormap -meanpixel 2 > test.map
+pngtopnm < ~/Downloads/synchro.png | pnmremap -mapfile=test.map | ppmtobmp > Synchro.bmp
