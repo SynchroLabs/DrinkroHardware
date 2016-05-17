@@ -1,2 +1,2 @@
-pngtopnm < ~/Downloads/synchro.png | pnmcolormap -meanpixel 2 > test.map
-pngtopnm < ~/Downloads/synchro.png | pnmremap -mapfile=test.map | ppmtobmp > Synchro.bmp
+pngtopnm < ~/Downloads/synchro.png | pamscale -reduce 2 | pnmcolormap -meanpixel 2 > test.map
+pngtopnm < ~/Downloads/synchro.png | pamscale -reduce 2 | pnmremap -mapfile=test.map | ppmtobmp > Synchro.bmp
