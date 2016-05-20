@@ -164,8 +164,8 @@
 <text x="34.925" y="42.545" size="1.27" layer="21" rot="R90" align="top-right">GND</text>
 <text x="40.005" y="42.545" size="1.27" layer="21" rot="R90" align="top-right">VCCIO</text>
 <text x="37.465" y="42.545" size="1.27" layer="21" rot="R90" align="top-right">DIR2</text>
-<hole x="69.85" y="25.4" drill="6.35"/>
-<hole x="6.35" y="38.1" drill="6.35"/>
+<hole x="69.85" y="25.4" drill="3.175"/>
+<hole x="6.35" y="38.1" drill="3.175"/>
 <rectangle x1="73.27138125" y1="3.500121875" x2="76.30921875" y2="3.533140625" layer="21" rot="R90"/>
 <rectangle x1="73.10628125" y1="3.500121875" x2="76.40828125" y2="3.533140625" layer="21" rot="R90"/>
 <rectangle x1="73.00721875" y1="3.500121875" x2="76.4413" y2="3.533140625" layer="21" rot="R90"/>
